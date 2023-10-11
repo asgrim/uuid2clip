@@ -5,6 +5,7 @@ edition = "2021"
 
 [dependencies]
 arboard = "3.2.1"
+notify-rust = "4.9.0"
 
 [dependencies.uuid]
 version = "1.4.1"
