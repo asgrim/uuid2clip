@@ -1,6 +1,6 @@
 # uuid2clip
 
-A basic CLI tool that generates a UUIDv4, puts it in the clipboard, and sends a system notification whne done.
+A basic CLI tool that generates a UUIDv4, puts it in the clipboard, and sends a system notification when done.
 
 The intended use case is to set up a system keyboard shortcut (e.g. `Win+U`) to generate a UUID which can then be
 pasted into whatever you're trying to do.
